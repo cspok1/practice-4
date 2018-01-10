@@ -1,0 +1,27 @@
+body{
+	background-color:rgb(132,19,18);
+	font-family: 'Montserrat', sans-serif;
+	color:white;
+	
+}
+h1{
+	font-size:50px;
+}
+h3{
+	font-size:30px;
+}
+#box1{
+	height:600px;
+	width:400px;
+	margin:auto;
+	padding:10px;
+	border-style:solid;
+	border-color:white;
+	text-align: center;
+
+
+}
+img {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+   }
